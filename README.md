@@ -5,3 +5,5 @@ I analyze data from the website "Hacker News" to determine the best time to post
 receives the most comments, and the type of post that receives the most points.  The data and documentation can be found here:
 (https://www.kaggle.com/hacker-news/hacker-news-posts). Our subset contains only observations that have comments, leaving 
 about 20,000 rows.
+
+Data report can be found in either the html file or the pdf file. 
